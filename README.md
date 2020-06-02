@@ -20,4 +20,4 @@ The project detect and re-identify Amur Tigers in the wild.
 ![reid3](img/reid3.PNG)
 <br>
 
-Cheers
+
